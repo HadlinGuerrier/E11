@@ -1,0 +1,15 @@
+{
+  "inscriptions": [
+    {
+      "nom": "Naioo",
+      "prenom": "Adjinie",
+      "email": "hadlinguerrier@gmail.com",
+      "classe": "Ns3",
+      "ecole": "se",
+      "telephone": "5555",
+      "password": "fg",
+      "appointmentDate": "2024-10-06",
+      "appointmentTime": "06:42"
+    }
+  ]
+}
